@@ -53,6 +53,10 @@ dev_dependencies:
 flutter:
   assets:
     - assets/images/person1.png
+    - assets/images/iphone-15.jpg
+    - assets/images/samsung.jpg
+    - assets/images/google.jpg
+
 
 
   # The following line ensures that the Material Icons font is
