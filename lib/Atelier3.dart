@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'Atelier4.dart'; // contient la classe Product (avec description)
+import 'Atelier5.dart';
 
 class Atelier3Page extends StatefulWidget {
   final Product product;
@@ -66,7 +66,7 @@ class _Atelier3PageState extends State<Atelier3Page> {
             Container(
               height: 260,
               decoration: BoxDecoration(
-                color: colorScheme.surfaceVariant,
+                color: colorScheme.surfaceContainerHighest,
                 borderRadius: BorderRadius.circular(16),
               ),
               padding: const EdgeInsets.all(12),

@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+/*import 'package:flutter/material.dart';
 import 'Atelier3.dart';
 
 // Model class
@@ -182,3 +182,4 @@ class ProductListPageM4 extends StatelessWidget {
     );
   }
 }
+*/
